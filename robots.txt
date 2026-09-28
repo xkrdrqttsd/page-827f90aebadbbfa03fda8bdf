@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.kdeyuxc.cn/sitemap.xml
